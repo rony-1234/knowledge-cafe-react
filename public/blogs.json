@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "coverImg": "https://example.com/image1.jpg",
+      "title": "Mastering JavaScript ES6",
+      "author": "John Doe",
+      "authorImg": "https://example.com/johndoe.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 5,
+      "hashtags": ["#JavaScript", "#ES6", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "coverImg": "https://example.com/image2.jpg",
+      "title": "Understanding Asynchronous Programming",
+      "author": "Jane Smith",
+      "authorImg": "https://example.com/janesmith.jpg",
+      "posted_date": "2024-08-10",
+      "reading_time": 7,
+      "hashtags": ["#JavaScript", "#Async", "#Promises", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "coverImg": "https://example.com/image3.jpg",
+      "title": "A Beginner's Guide to CSS Flexbox",
+      "author": "Michael Brown",
+      "authorImg": "https://example.com/michaelbrown.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": 6,
+      "hashtags": ["#CSS", "#Flexbox", "#Frontend"]
+    },
+    {
+      "id": 4,
+      "coverImg": "https://example.com/image4.jpg",
+      "title": "Building Responsive Web Pages",
+      "author": "Emily Clark",
+      "authorImg": "https://example.com/emilyclark.jpg",
+      "posted_date": "2024-06-05",
+      "reading_time": 8,
+      "hashtags": ["#ResponsiveDesign", "#HTML", "#CSS", "#WebDevelopment"]
+    },
+    {
+      "id": 5,
+      "coverImg": "https://example.com/image5.jpg",
+      "title": "Getting Started with Vite and JavaScript",
+      "author": "Chris Johnson",
+      "authorImg": "https://example.com/chrisjohnson.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": 10,
+      "hashtags": ["#Vite", "#JavaScript", "#BuildTools"]
+    }
+  ]
+  
