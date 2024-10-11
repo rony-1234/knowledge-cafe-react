@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "coverImg": "https://example.com/image1.jpg",
+      "coverImg": "https://i.ibb.co.com/RSPpjV1/website-hosting-concept-with-bright-light-23-2149406783.jpg",
       "title": "Mastering JavaScript ES6",
       "author": "John Doe",
-      "authorImg": "https://example.com/johndoe.jpg",
+      "authorImg": "https://i.ibb.co.com/xg3Kwjk/young-girl-with-short-hair-wearing-polo-shirt-looking-camera-with-smile-face-141793-46444.jpg",
       "posted_date": "2024-09-15",
       "reading_time": 5,
       "hashtags": ["#JavaScript", "#ES6", "#WebDevelopment"]
     },
     {
       "id": 2,
-      "coverImg": "https://example.com/image2.jpg",
+      "coverImg": "https://i.ibb.co.com/8Dz9F2t/digital-blue-hud-interface-laptop-concept-53876-64973.jpg",
       "title": "Understanding Asynchronous Programming",
       "author": "Jane Smith",
-      "authorImg": "https://example.com/janesmith.jpg",
+      "authorImg": "https://i.ibb.co.com/BjyG77f/expressive-woman-gesturing-23-2150198673.jpg",
       "posted_date": "2024-08-10",
       "reading_time": 7,
       "hashtags": ["#JavaScript", "#Async", "#Promises", "#WebDevelopment"]
     },
     {
       "id": 3,
-      "coverImg": "https://example.com/image3.jpg",
+      "coverImg": "https://i.ibb.co.com/1v9czN3/tech-devices-icons-connected-design-digital-planet-earth-design-1219450-1984.jpg",
       "title": "A Beginner's Guide to CSS Flexbox",
       "author": "Michael Brown",
-      "authorImg": "https://example.com/michaelbrown.jpg",
+      "authorImg": "https://i.ibb.co.com/rHjWCSn/backers-personal-testimonial-review-crowdfunding-campaign-they-supported-995578-19399.jpg",
       "posted_date": "2024-07-22",
       "reading_time": 6,
       "hashtags": ["#CSS", "#Flexbox", "#Frontend"]
     },
     {
       "id": 4,
-      "coverImg": "https://example.com/image4.jpg",
+      "coverImg": "https://i.ibb.co.com/mNFr1G5/teenager-dressed-white-t-shirt-using-virtual-reality-glasses-with-graph-charts-numbers-lines-technol.jpg",
       "title": "Building Responsive Web Pages",
       "author": "Emily Clark",
-      "authorImg": "https://example.com/emilyclark.jpg",
+      "authorImg": "https://i.ibb.co.com/qx07KjK/close-up-shot-happy-charming-tender-cute-young-20s-brunette-olive-t-shirt-smiling-shy-energized-feel.jpg",
       "posted_date": "2024-06-05",
       "reading_time": 8,
       "hashtags": ["#ResponsiveDesign", "#HTML", "#CSS", "#WebDevelopment"]
     },
     {
       "id": 5,
-      "coverImg": "https://example.com/image5.jpg",
+      "coverImg": "https://i.ibb.co.com/WKtGtgb/font-design-word-technology-33070-1564.jpg ",
       "title": "Getting Started with Vite and JavaScript",
       "author": "Chris Johnson",
-      "authorImg": "https://example.com/chrisjohnson.jpg",
+      "authorImg": "https://i.ibb.co.com/P42JKT1/3d-icon-travel-with-man-23-2151037420.jpg",
       "posted_date": "2024-09-30",
       "reading_time": 10,
       "hashtags": ["#Vite", "#JavaScript", "#BuildTools"]
